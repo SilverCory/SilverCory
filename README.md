@@ -1,8 +1,3 @@
-I'm working towards going the `long way round` 🌍 
-
-<hr/>
-
-<br/>
 <p align="center">
   <img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" alt="Keybase icon" width="32" height="32"/></br>
   http://keybase.io/grey</br>
