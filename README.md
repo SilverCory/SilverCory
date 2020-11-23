@@ -1,5 +1,3 @@
-### Hey! 👋
-
 I'm working towards going the `long way round` 🌍 
 
 <hr/>
